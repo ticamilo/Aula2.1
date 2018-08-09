@@ -1,3 +1,0 @@
-Counter-Strike
-Tibia
-GTA
