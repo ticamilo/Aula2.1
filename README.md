@@ -1,2 +1,4 @@
 # Aula2.11
-Devops
+Bruna Marquesine
+Paola Oliveira
+Caio Castro
